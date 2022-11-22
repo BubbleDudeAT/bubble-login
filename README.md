@@ -55,4 +55,5 @@ end)
 
 Im Sorry but i didnt test it on ESX but ill will look into it asap!
 
+MY DISCORD: https://discord.com/invite/D5tRtaJn9g
 
